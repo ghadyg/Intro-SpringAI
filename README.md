@@ -6,7 +6,6 @@ Welcome to the **Intro to Spring AI** repository! This project demonstrates the 
 
 This repository contains the source code for a Spring Boot application that introduces the following AI features:
 
-- **Chat-based interactions**: Generate responses to user prompts.
 - **Quiz generation**: Create quizzes based on specific topics.
 - **Image description**: Describe the content of images.
 - **Audio transcription**: Transcribe audio files into text.
