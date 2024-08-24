@@ -47,11 +47,10 @@ This controller is the core of the application, providing endpoints to interact 
    git clone https://github.com/ghadyg/Intro-SpringAI.git
 
 2. **Navigate to the project directory:**
+   ```sh
    -cd "springAI\src\main\resources"
    -Open applications.property and replace ApiKey with your openAI key
    -return to springAI directory
-
-3. **Build and run the application::**
+3. **Build and run the application:**
+   ```sh
    ./mvnw spring-boot:run
-
-
